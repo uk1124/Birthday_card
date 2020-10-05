@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="create_card">Create Card</string>
+    <string name="textview">TextView</string>
+</resources>
